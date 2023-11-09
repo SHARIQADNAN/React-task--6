@@ -4,7 +4,7 @@ function Contact() {
     return (
         <section className="contact">
             <h2>Contact Me</h2>
-            <p>Email: sanmathipriya.kr2020@vitstudent.ac.in </p>
+            <p>Email: adnanshariq333@vitstudent.ac.in </p>
         </section>
     );
 }
